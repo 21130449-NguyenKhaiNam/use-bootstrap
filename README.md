@@ -18,3 +18,7 @@ Solution: << Remove old account in Control Pane -> Window Cretical and push agai
 #2: I link all file for index.html and test run
 Error: I can't excute div or anything in file html at js
 Solution: This is true, i can't anything beacause it's rule. So i can use js for create function and can run it on file html.
+
+#3: So i hate UI because i bad it, but still create figma :<
+Error: Don't have idea
+Solution: Search on internet
