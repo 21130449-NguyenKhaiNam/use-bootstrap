@@ -22,3 +22,5 @@ Solution: This is true, i can't anything beacause it's rule. So i can use js for
 #3: So i hate UI because i bad it, but still create figma :<
 Error: Don't have idea
 Solution: Search on internet
+
+#4: That's all. Beacause i so tired :<
